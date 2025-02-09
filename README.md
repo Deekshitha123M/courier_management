@@ -63,10 +63,16 @@ To view or run this website locally, follow these steps:
 ## Screenshots
 
 ### User Login Page
-![User Login](images/user_Login.png)
+![User Login](images/User_Login.png)
+
+### User Register
+![User Register](images/User_Register.png)
 
 ### Admin Login Page
 ![Admin Login](images/Admin_Login.png)
+
+### Admin Dashboard
+![Admin Dashboard](images/Admin_Dashboard.png)
 
 ### Courier Booking Page
 ![Courier Booking](images/Courier_Booking.png)
@@ -74,8 +80,11 @@ To view or run this website locally, follow these steps:
 ### Tracking Page
 ![Tracking](images/Tracking.png)
 
-### Admin Dashboard
-![Admin Dashboard](images/Admin_Dashboard.png)
+### User Profile
+![User Profile](images/User_Profile.png)
+
+### Contact Page
+![Contact Page](images/Contact_Page.png)
 
 
 

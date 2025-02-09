@@ -63,19 +63,19 @@ To view or run this website locally, follow these steps:
 ## Screenshots
 
 ### User Login Page
-![User Login](images/user_login.png)
+![User Login](images/user_Login.png)
 
 ### Admin Login Page
 ![Admin Login](images/Admin_Login.png)
 
 ### Courier Booking Page
-![Courier Booking](images/courier_booking.png)
+![Courier Booking](images/Courier_Booking.png)
 
 ### Tracking Page
-![Tracking](images/tracking.png)
+![Tracking](images/Tracking.png)
 
 ### Admin Dashboard
-![Admin Dashboard](images/admin_dashboard.png)
+![Admin Dashboard](images/Admin_Dashboard.png)
 
 
 

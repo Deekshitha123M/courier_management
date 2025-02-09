@@ -66,7 +66,7 @@ To view or run this website locally, follow these steps:
 ![User Login](images/user_login.png)
 
 ### Admin Login Page
-![Admin Login](images/Admin_login.png)
+![Admin Login](images/Admin_Login.png)
 
 ### Courier Booking Page
 ![Courier Booking](images/courier_booking.png)
